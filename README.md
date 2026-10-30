@@ -18,14 +18,14 @@ The code reads real-time temperature data from the DHT22 sensor and evaluates it
 - 220Ω resistor
 - Jumper wires
 
-  | Temperature | Expected LED | Result |
+  ## Test Results
+
+| Temperature | Expected LED | Result |
 |---|---|---|
-| 30°C | OFF | /|
-| 37°C | OFF | /|
-| 38°C | ON | /|
-| 42°C | ON | /|
-
-
+| 30°C | OFF | / |
+| 37°C | OFF | / |
+| 38°C | ON | / |
+| 42°C | ON | / |
   ## Files
 
 - `sketch.ino`: Arduino code
