@@ -2,7 +2,7 @@
 
 A Smart Temperature Monitoring System. The LED will turn on when the temperature reaches the threshold **38°C**.
 
- [Open the project in Wokwi](https://wokwi.com/projects/478633842103770113)
+ [Wokwi Project](https://wokwi.com/projects/478633842103770113)
 
  Warning Threshold: 38°C
 The code reads real-time temperature data from the DHT22 sensor and evaluates it using a conditional statement:
